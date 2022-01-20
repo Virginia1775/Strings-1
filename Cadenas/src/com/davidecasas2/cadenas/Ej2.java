@@ -1,3 +1,4 @@
+package com.davidecasas2.cadenas;
 import java.util.Scanner;
 
 /**
